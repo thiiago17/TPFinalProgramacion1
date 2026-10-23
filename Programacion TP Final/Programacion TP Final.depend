@@ -1,0 +1,164 @@
+# depslib dependency file v1.0
+1781657311 source:c:\users\victor\downloads\programacion tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.h"
+	"menu.h"
+	"administradores.h"
+	<string.h>
+
+1780671297 source:c:\users\alumno\desktop\programacion tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1780672288 source:c:\users\alumno\desktop\programacion tp final\menu.c
+	"menu.h"
+
+1780672111 c:\users\alumno\desktop\programacion tp final\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1780496553 source:c:\users\usuario\downloads\programacion tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1780497892 source:c:\users\usuario\downloads\programacion tp final\menu.c
+	<stdio.h>
+	<string.h>
+	"menu.h"
+
+1780497219 c:\users\usuario\downloads\programacion tp final\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1780494224 source:c:\users\usuario\downloads\programacion tp final\administradores.c
+	"administradores.h"
+
+1780494888 c:\users\usuario\downloads\programacion tp final\administradores.h
+	<stdio.h>
+	<stdlib.h>
+
+1780494322 source:c:\users\usuario\downloads\programacion tp final\alumno.c
+	"alumno.h"
+
+1780015586 c:\users\usuario\downloads\programacion tp final\alumno.h
+	<stdio.h>
+	<stdlib.h>
+
+1780494226 source:c:\users\alumno\desktop\programacion tp final\administradores.c
+	"administradores.h"
+
+1780494890 c:\users\alumno\desktop\programacion tp final\administradores.h
+	<stdio.h>
+	<stdlib.h>
+
+1780494324 source:c:\users\alumno\desktop\programacion tp final\alumno.c
+	"alumno.h"
+
+1780015586 c:\users\alumno\desktop\programacion tp final\alumno.h
+	<stdio.h>
+	<stdlib.h>
+
+1781666208 source:e:\facultad\programacion tp final\administradores.c
+	"administradores.h"
+	"alumno.h"
+	<string.h>
+	<ctype.h>
+
+1781657311 e:\facultad\programacion tp final\administradores.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1781657311 source:e:\facultad\programacion tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"alumno.h"
+	"menu.h"
+	"administradores.h"
+	<string.h>
+
+1781665552 source:e:\facultad\programacion tp final\menu.c
+	"menu.h"
+	<string.h>
+
+1781657311 e:\facultad\programacion tp final\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"administradores.h"
+
+1781657311 e:\facultad\programacion tp final\alumno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1781011870 source:c:\users\usuario\desktop\programacion tp final\administradores.c
+	"administradores.h"
+
+1781011870 c:\users\usuario\desktop\programacion tp final\administradores.h
+	<stdio.h>
+	<stdlib.h>
+
+1781102804 source:c:\users\usuario\desktop\programacion tp final\alumno.c
+	"alumno.h"
+	<string.h>
+	<ctype.h>
+
+1781021778 c:\users\usuario\desktop\programacion tp final\alumno.h
+	<stdio.h>
+	<stdlib.h>
+
+1781102737 source:c:\users\usuario\desktop\programacion tp final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+
+1781102775 source:c:\users\usuario\desktop\programacion tp final\menu.c
+	"menu.h"
+	"alumno.h"
+
+1781011870 c:\users\usuario\desktop\programacion tp final\menu.h
+	<stdio.h>
+	<stdlib.h>
+
+1781673800 c:\users\victor\downloads\programacion tp final\alumno.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1781657311 c:\users\victor\downloads\programacion tp final\menu.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"alumno.h"
+	"administradores.h"
+
+1781657311 c:\users\victor\downloads\programacion tp final\administradores.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1781671395 source:c:\users\victor\downloads\programacion tp final\administradores.c
+	"administradores.h"
+	"alumno.h"
+	<string.h>
+	<ctype.h>
+
+1781675794 source:c:\users\victor\downloads\programacion tp final\menu.c
+	"menu.h"
+	<string.h>
+
+1781665947 source:e:\facultad\programacion tp final\alumno.c
+	<string.h>
+	"alumno.h"
+	<ctype.h>
+
+1781676106 source:c:\users\victor\downloads\programacion tp final\alumno.c
+	<string.h>
+	"alumno.h"
+	<ctype.h>
+
